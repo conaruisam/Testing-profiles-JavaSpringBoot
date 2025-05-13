@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev # Perfil activo por defecto
+
+app:
+  name: My Spring Boot App

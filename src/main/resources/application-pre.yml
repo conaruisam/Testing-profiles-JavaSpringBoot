@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+app:
+  environment: Pre-production
+  db:
+    url: jdbc:mysql://localhost:3306/pre_production_db
+    username: pre_production_user
+    password: pre_production_pass

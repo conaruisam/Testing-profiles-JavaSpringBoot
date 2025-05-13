@@ -1,0 +1,10 @@
+logging:
+  level:
+    org.springframework.security: DEBUG
+    com.example.demo.audit: TRACE
+
+app:
+  audit:
+    enabled: true
+    log-changes: true
+    store-events: true
