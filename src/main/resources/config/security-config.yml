@@ -1,0 +1,3 @@
+security:
+  enabled: true
+  basic-auth: false

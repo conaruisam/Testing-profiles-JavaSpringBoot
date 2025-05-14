@@ -1,0 +1,4 @@
+security:
+  basic-auth: true #º
+  cors:
+    allowed-origins: "*"
